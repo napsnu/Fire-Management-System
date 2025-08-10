@@ -1,0 +1,13 @@
+/venv
+/backend/ServiceAccountKey.json
+/backend/app/__pycache__
+/backend/app/services/__pycache__
+/Static
+backend/app/services/__init__.py
+backend/app/services/test.py
+some.txt
+.vscode
+# /mobile_app
+/PRESEN
+fire_detected.txt
+mobile_app/fire_application_1/android/app/google-services.json
